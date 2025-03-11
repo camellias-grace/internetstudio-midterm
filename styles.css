@@ -42,3 +42,10 @@
   font-weight: 400;
   font-style: normal;
   }
+
+  .artpieceImg {
+    background-image: url(forthetaking.jpg);
+    width: 864px;
+    height: 648px;
+    margin: 64px auto;
+  }
