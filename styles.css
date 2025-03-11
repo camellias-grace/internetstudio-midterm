@@ -1,0 +1,16 @@
+* {
+    padding: 10px;
+    margin: 0px;
+  }
+  
+  body {
+    background-color:rgb(255, 255, 255);
+    font-family: Helvetica, Arial, sans-serif;
+  }
+
+  h1
+  .yatra-one-regular {
+    font-family: "Yatra One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
